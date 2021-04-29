@@ -9,7 +9,7 @@ Persian faker package for laravel . This package is created for testing your pro
 get install package with composer
 
 ```bash
-composer require ybazli/faker
+composer require malekfar/faker
 ```
 
 ### Step 2
